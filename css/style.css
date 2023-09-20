@@ -211,7 +211,8 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #df0031;
+    /*background: #df0031;*/
+    background: #095fc2;
     position: relative;
 }
 
@@ -259,7 +260,7 @@ p {
 
 .top_left_cont p {
     font-size: 16px;
-    color: #FFABAB;
+    color: #8eb6f1;
     margin: 0 0 30px 0;
     line-height: 26px;
 }
