@@ -1717,3 +1717,9 @@ background: #F9F9F9;
 width: 99%;
 }
 }
+
+a[href^="tel"] {
+    color: inherit; /* Inherit text color of parent element. */
+    text-decoration: none; /* Remove underline. */
+    /* Additional css `propery: value;` pairs here */
+  }
